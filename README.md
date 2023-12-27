@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iradukunda Hussein</h1>
 <h3 align="center">A passionate frontend developer from Burundi</h3>
-<img align "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1262077/screenshoots3848914/programmer.gif">
+<img align "right" alt="Coding" width="400" src="https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv1bGQx22vke_61GITHOp_iuuH_F5zdquWGsteOHBBNA&s.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein257&label=Profile%20views&color=0e75b6&style=flat" alt="hussein257" /> </p>
 
